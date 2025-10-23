@@ -172,3 +172,5 @@
 2025-06-26 07:18:00 | WARN | repo=ffmpeg.wasm | action=commit
 2025-01-08 17:11:00 | DEBUG | repo=ffmpeg.wasm | action=commit
 2025-12-13 11:09:00 | DEBUG | repo=ffmpeg.wasm | action=commit
+2025-08-04 11:26:00 | WARN | repo=ffmpeg.wasm | action=pull
+2025-10-23 14:50:00 | DEBUG | repo=ffmpeg.wasm | action=commit
